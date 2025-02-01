@@ -1,0 +1,55 @@
+/* 按鈕區域樣式 */
+.button-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* App 容器樣式 */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* 影片與控制區 */
+.app-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.video-container {
+  position: relative;
+  width: 640px;
+  height: 360px;
+  background-color: black;
+  overflow: hidden;
+}
+
+.gif-controls {
+  width: 300px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
