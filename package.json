@@ -1,8 +1,9 @@
 {
-  "homepage": "https://louis06010920.github.io/video-gif-editor"
+  
   "name": "video-gif-editor",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://louis06010920.github.io/video-gif-editor"
   "dependencies": {
     "@ffmpeg/core": "^0.12.10",
     "@ffmpeg/ffmpeg": "^0.12.15",
@@ -19,6 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
