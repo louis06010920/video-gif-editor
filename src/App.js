@@ -101,7 +101,7 @@ const App = () => {
     
     const ffmpeg = new FFmpeg({
       log: true,
-      corePath: '/ffmpeg-core.js',
+      corePath: "https://unpkg.com/@ffmpeg/core@0.12.10/dist/ffmpeg-core.js",
       logger: ({ type, message }) => {
         if (type === 'stderr') {
           console.error(`[FFmpeg ${type}] ${message}`);
