@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/video-gif-editor/static/css/main.d53ad156.css",
-    "main.js": "/video-gif-editor/static/js/main.f158d0b6.js",
+    "main.css": "/video-gif-editor/static/css/main.e7daf8c1.css",
+    "main.js": "/video-gif-editor/static/js/main.3374bffe.js",
     "static/js/726.2cd7c162.chunk.js": "/video-gif-editor/static/js/726.2cd7c162.chunk.js",
     "static/js/488.2b2e3545.chunk.js": "/video-gif-editor/static/js/488.2b2e3545.chunk.js",
     "index.html": "/video-gif-editor/index.html",
-    "main.d53ad156.css.map": "/video-gif-editor/static/css/main.d53ad156.css.map",
-    "main.f158d0b6.js.map": "/video-gif-editor/static/js/main.f158d0b6.js.map",
+    "main.e7daf8c1.css.map": "/video-gif-editor/static/css/main.e7daf8c1.css.map",
+    "main.3374bffe.js.map": "/video-gif-editor/static/js/main.3374bffe.js.map",
     "726.2cd7c162.chunk.js.map": "/video-gif-editor/static/js/726.2cd7c162.chunk.js.map",
     "488.2b2e3545.chunk.js.map": "/video-gif-editor/static/js/488.2b2e3545.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d53ad156.css",
-    "static/js/main.f158d0b6.js"
+    "static/css/main.e7daf8c1.css",
+    "static/js/main.3374bffe.js"
   ]
 }
